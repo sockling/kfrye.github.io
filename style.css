@@ -8,6 +8,7 @@ body {
 	background-attachment: fixed;
 	background-position: right bottom;
 	background-color: rgb(245, 224, 228);
+	overflow: hidden;
 }
 
 .container{
@@ -24,9 +25,9 @@ body {
 
 .signup {
 	position: absolute;
-	right: 265px;
+	right: 270px;
 	bottom: 140px;
-	transform: rotate(-33deg);
+	transform: rotate(-32deg);
 	width: 150px;
 	text-align: center;
 	font-size: 20px;
